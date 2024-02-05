@@ -1,16 +1,7 @@
-# bingo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1> App de Visualização de Bingo!</h1>
+</br>
+<p>Esse app foi criado no dia 31/12/2023, pois minha familia iria se reunir para celebrar o reveillon, e tinham organizado um bingo de fim de ano.</p>
+<h2>Problemática:</h2>
+<p>Pela alta quantidade de pessoas, qunado quisessem verificar a cartela, ou se algum numero ja tinha sido sorteado, teriam que se levantar e ir ate a mesa que acontecia o sorteio.</p>
+<h3>Solução:</h3>
+<p> Esse app foi criado para a visualização dos valores sorteados. Com uma tela simples de Visualização de todos os numeros sorteados e uma tela que a sobrepoe que adiciona de forma pratica um numero, contendo uma pequena animação quando o numero é sorteado!</p>
